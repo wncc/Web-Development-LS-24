@@ -1,7 +1,6 @@
 # Web-Development-LS-24
 
-### Web and Coding Club welcomes you to Intro to Web Development Course where we aim to learn React- Django Framework in upcoming 4 weeks. Follow weekly folders created. Let's gert started with [Week 1](https://github.com/wncc/Web-Development-LS-24/tree/main/Week%201). Week2 coming soon...
-
+### Web and Coding Club welcomes you to Intro to Web Development Course where we aim to learn React- Django Framework in upcoming 4 weeks. We hope you completed week 1 smoothly. Here are the [Week 2 resources](https://github.com/wncc/Web-Development-LS-24/tree/main/Week2) where we shall deep dive into CSS Frameworks and React. Week 3 coming soon...
 ## For any further querries, feel free to reach out our course Moderators-
 
 * Pratyaksh: 9662201929
