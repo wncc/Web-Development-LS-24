@@ -32,6 +32,8 @@ Local storage:
 No authentication:
 - This assignment does not require user authentication or authorization.
 
+### For reference you can watch this [video](https://www.youtube.com/watch?v=VNarNMDUCg4)
+
 ## Deliverables:
 A working website that meets the requirements above.
 A GitHub repository containing the website's code.
