@@ -2,7 +2,7 @@
 
 Hello everyone. Hope you all are excited to start week 3 and start your backend development. We are here to help you in navigating this section.
 
- - **Read [Backend Development](./Backend.md)**
+ - **Read [Backend Development]((https://github.com/wncc/Web-Development-LS-24/blob/c86a7b033a1f221f7eb9a12742ef7db911d636da/Week3/Resources%20for%20Backend%20(Django).md))**
 
    You have learnt frontend dev. Now it's time for backend. Understand the concepts and emerge as a fullstack developer.
  
